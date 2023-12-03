@@ -1,0 +1,11 @@
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/bin/Debug/net8.0/ArticleExamples.deps.json
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/bin/Debug/net8.0/ArticleExamples.dll
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/bin/Debug/net8.0/ArticleExamples.pdb
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.AssemblyInfoInputs.cache
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.AssemblyInfo.cs
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.csproj.CoreCompileInputs.cache
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.dll
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/refint/ArticleExamples.dll
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ArticleExamples.pdb
+/Users/Abusdal/dotnet/AlgorithmArtices/ArticleExamples/obj/Debug/net8.0/ref/ArticleExamples.dll
